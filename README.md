@@ -6,7 +6,6 @@ Absolutely! Here's a **detailed, professional, and engaging README** for your **
 **Interactive BI Dashboard | Power BI | Sales Analytics | Customer Insights**
 
 ![Coffee Sales Dashboard](https://github.com/Femi-ops/-Coffee-Sales-Dashboard-/blob/main/COFFEE.jpg)  
-*(Replace with the actual image path in your repo)*
 
 ---
 
