@@ -1,6 +1,3 @@
-Absolutely! Here's a **detailed, professional, and engaging README** for your **Coffee Sales Dashboard** project. It's tailored for your GitHub page and optimized to showcase your skills in **Power BI, data visualization, analytics, and business intelligence**.
-
----
 
 # ☕ Coffee Sales Dashboard 📊  
 **Interactive BI Dashboard | Power BI | Sales Analytics | Customer Insights**
